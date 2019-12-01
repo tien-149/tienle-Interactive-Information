@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- css stuff -->
+    <!-- link to reset -->
+    <link rel="icon" type="image/png" sizes="16x16" href="images/sp-icon.png">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Favorite things</title>
+</head>
+
+<body>
+    <h1>Superhero</h1>
+    <nav data-module="nav">
+        <!-- nav elements must have nav-item -->
+        <ul>
+            <li><a href="#" class="nav-item">Home</a></li>
+            <li><a href="/2" class="nav-item">About</a></li>
+            
+        </ul>
+    </nav>
+<<<<<<< HEAD
+        <p>  </p>
+=======
+        <p> </p>
+>>>>>>> 3db49ca7cae0361a8cfc3d99a07433604936ca20
+
+    <main>
+        {{{ body }}}
+    </main>
+
+    <footer>
+        <p class="question">What's your favorite superhero?</p>
+
+        <ul>
+            <li><a href="#" class="nav-item">Home</a></li>
+            <li><a href="/2" class="nav-item">About</a></li>
+
+        </ul>
+    </footer>
+
+    <a id="to-top" href="#" class="nav-item">Back to top</a>
+
+    <script type="module" src="js/main.js"></script>
+    <script>
+        var name = "Justin";
+
+        console.log('name in main file: ' + name);
+    </script>
+
+    <!-- templates -> these don't get rendered immediately -->
+    <template id="user-template">
+        <!-- you can put all kinds of markup here - semantic tagging, etc -->
+        <div class="user-panel">
+            <div class="user-panel-header">
+                <img class="u-avatar"></img>
+                <h1 class="u-name"></h1>
+            </div>
+
+            <button class="user-button">More Details</button>
+        </div>
+    </template>
+    <!-- end templates-->
+</body>
+
+</html>

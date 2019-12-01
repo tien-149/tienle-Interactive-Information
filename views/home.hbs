@@ -1,0 +1,36 @@
+{{!-- <section id="section2" class="panel">panel 2</section> --}}
+<section id="section3" class="panel">
+
+
+    <div class="team">
+        <!-- loop through all our team members and put their info on the page -->
+        {{#each people}} 
+        {{!-- This is like a JS for Each loop --}}
+        <div class="user-panel">
+            <img src="images/{{Avatar}}" alt="User image" class="u-avatar">   
+            <a href="{{ID}}" class ="u-link"> See more</a>    
+            <h2>{{Name}}</h2>
+            <h3>Publisher: {{Publisher}}</h3>
+            <h4>{{Place}}</h4>
+            <h4>Alter Ego: {{AlterEgo}}</h4>
+            
+             </div>
+
+        {{/each}}
+        
+    </div>
+    </div>
+
+    <!-- this will be filled in on the client side when we render our AJAX data -->
+    <section class="lightbox">
+        <span class="close">x</span>
+        <div class="sidebar">
+            <img src="" alt="larger bio image">
+        </div>
+
+        <div class="lb-content">
+            {{!-- render the database content here --}}
+        </div>
+    </section>
+</section>
+
