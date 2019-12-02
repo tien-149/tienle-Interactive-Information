@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="caitlyn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 441.1 642.9" style="enable-background:new 0 0 441.1 642.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BFC3FF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFF9E9;}
+	.st2{fill:#6839B5;}
+	.st3{fill:#663300;}
+	.st4{fill:#FFCC33;}
+	.st5{fill:url(#hair_2_);}
+	.st6{fill:url(#hair_3_);}
+</style>
+<circle class="st0" cx="223.4" cy="232.2" r="204.5"/>
+<path id="face_1_" class="st1" d="M215.4,303.7l-64.9-1.9c0,0-24.4,55.6,16.5,93.2c0,0,18.9,15.5,48.4,21.4V303.7z"/>
+<path id="face_2_" class="st1" d="M215.4,303.7l64.9-1.9c0,0,24.4,55.6-16.5,93.2c0,0-18.9,15.5-48.4,21.4V303.7z"/>
+<path id="hat" class="st2" d="M85.4,24.4c-3.4-7,266.6,0,266.6,0s-69.7,94-36.5,230.1h49.8v35.4c0,0-157.1,31-299.8,0v-35.4h55.3
+	C120.8,254.5,158.4,174.9,85.4,24.4z"/>
+<polygon class="st3" points="120.8,254.5 315.5,254.5 311.6,236.1 126.4,236.1 "/>
+<path id="yellow_line" class="st4" d="M112,21.8c0,0,75.2,92,57.5,214.4h14.4c0,0,22.1-98.7-24.3-214.4
+	C159.6,21.8,112,21.8,112,21.8z"/>
+<path id="yellow_line_1_" class="st4" d="M319.1,22.8c0,0-75.2,92-57.5,214.4h-14.4c0,0-22.1-98.7,24.3-214.4
+	C271.5,22.8,319.1,22.8,319.1,22.8z"/>
+<linearGradient id="hair_2_" gradientUnits="userSpaceOnUse" x1="110.8947" y1="171.7136" x2="169.7023" y2="171.7136" gradientTransform="matrix(1 0 0 -1 0 641.8211)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="3.856647e-02" style="stop-color:#004FD4"/>
+	<stop  offset="1" style="stop-color:#11004E"/>
+</linearGradient>
+<path id="hair" class="st5" d="M110.9,297.5c0,0,0.8,165.9,30.5,244.9s23.9,100.5,23.9,100.5s0.7-109.4-8.2-128
+	c0,0,8.9,18.6,11.9,46.2s-6-169,0-166s-28.3-14.9-22.3-64.8s5.9-28.4,5.9-28.4L110.9,297.5z"/>
+<linearGradient id="hair_3_" gradientUnits="userSpaceOnUse" x1="-230.5645" y1="172.7136" x2="-171.7901" y2="172.7136" gradientTransform="matrix(-1 0 0 -1 89.3301 641.8211)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="3.856647e-02" style="stop-color:#004FD4"/>
+	<stop  offset="1" style="stop-color:#11004E"/>
+</linearGradient>
+<path id="hair_1_" class="st6" d="M319.9,296.5c0,0-0.8,165.9-30.5,244.9c-29.7,79-23.8,100.5-23.8,100.5s-0.7-109.4,8.2-128
+	c0,0-8.9,18.6-11.9,46.2c-3,27.5,6-169,0-166c-6,3,28.3-14.9,22.3-64.8s-5.9-28.4-5.9-28.4L319.9,296.5z"/>
+<path class="st1" d="M343.2,397.7"/>
+</svg>

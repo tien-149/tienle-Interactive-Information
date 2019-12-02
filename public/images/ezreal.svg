@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ezreal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 440.7 438.9" style="enable-background:new 0 0 440.7 438.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AAE1FF;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:url(#right_hair_1_);}
+	.st3{fill:url(#left_1_);}
+	.st4{fill:url(#front_hair_1_);}
+	.st5{fill:#572D02;}
+	.st6{fill:#B4EAEA;}
+</style>
+<circle class="st0" cx="212.1" cy="222.3" r="204.5"/>
+<path id="face" class="st1" d="M146.3,371.7l70.2,34.7c0,0,70.6-35.5,76.2-41.6s71-58.2,43.5-161.7
+	C308.6,99.5,111.8,132.8,102.8,166S66.4,291.6,146.3,371.7z"/>
+<linearGradient id="right_hair_1_" gradientUnits="userSpaceOnUse" x1="292.6597" y1="259.0698" x2="431.3753" y2="259.0698">
+	<stop  offset="0" style="stop-color:#EF8800"/>
+	<stop  offset="0.2532" style="stop-color:#F3A71E"/>
+	<stop  offset="0.5552" style="stop-color:#F8C43C"/>
+	<stop  offset="0.8148" style="stop-color:#FAD64E"/>
+	<stop  offset="1" style="stop-color:#FBDD54"/>
+</linearGradient>
+<path id="right_hair" class="st2" d="M292.7,364.8l85-27.5c0,0-29.4-8.9-26.8-17.9c2.6-8.9,80.5-63.9,80.5-63.9
+	s-57.5-28.1-53.7-40.3l35.2,3.2c0,0-42.8-23.5-50.8-65.1l-25.9,49.8C336.1,203.1,367.5,286.8,292.7,364.8z"/>
+<linearGradient id="left_1_" gradientUnits="userSpaceOnUse" x1="106.3045" y1="265.9377" x2="245.0201" y2="265.9377" gradientTransform="matrix(-1 0 0 1 252.589 0)">
+	<stop  offset="0" style="stop-color:#EF8800"/>
+	<stop  offset="0.2532" style="stop-color:#F3A71E"/>
+	<stop  offset="0.5552" style="stop-color:#F8C43C"/>
+	<stop  offset="0.8148" style="stop-color:#FAD64E"/>
+	<stop  offset="1" style="stop-color:#FBDD54"/>
+</linearGradient>
+<path id="left" class="st3" d="M146.3,371.7l-85-27.5c0,0,29.4-8.9,26.8-17.9S7.6,262.4,7.6,262.4s57.5-28.1,53.7-40.3l-35.2,3.2
+	c0,0,42.8-23.5,50.8-65.1l25.9,49.8C102.8,210,71.5,293.7,146.3,371.7z"/>
+<linearGradient id="front_hair_1_" gradientUnits="userSpaceOnUse" x1="365.7748" y1="187.9883" x2="67.1753" y2="187.9883">
+	<stop  offset="0" style="stop-color:#EFC500"/>
+	<stop  offset="0.2473" style="stop-color:#F3CD1E"/>
+	<stop  offset="0.5517" style="stop-color:#F7D63B"/>
+	<stop  offset="0.8133" style="stop-color:#FADB4D"/>
+	<stop  offset="1" style="stop-color:#FBDD54"/>
+</linearGradient>
+<path id="front_hair" class="st4" d="M86.8,118.7c0,0-4,7.2-8.4,20.2c-10.6,31.6-23.5,97.7,12.2,180.5c0,0,7.7-121.5,28.8-145.1
+	c0,0,9.6,83.1,21.1,94.6c0,0,14.1-92.7,37.7-109.3c0,0,15.1,63.3,71.1,67.5c0,0-12.3-18.2-12.3-34.9c0,0,78.6,53.1,81.8,81.8
+	c0,0,19.2-40.9,17.3-71c0,0,14.1,92.1,3.2,116.3c0,0,48.6-136.8,14.1-185.4S207.6-4.7,86.8,118.7z"/>
+<path id="glassesp" class="st5" d="M73.7,166L90,124.5c0,0-33.9-38.4,22.4-74.8s88.2,24.9,87.6,27.5c-0.6,2.6,23.7-3.2,35.2,0.6
+	c0,0,34.5-66.5,106.1-8.3c0,0,23.7,22.4,2.6,58.2c0,0,12.1,28.1,15.3,47.9l-37.7-26.8c0,0-62,14.3-85-28.8l-37.7-3.2
+	c0,0-14.1,42.2-85.7,27.5L73.7,166z"/>
+<path id="right_glasses" class="st6" d="M261.3,70.8c0,0,36.4-21.7,66.5,13.4s-30.7,44.3-44.1,37.8
+	C270.3,115.5,237.7,93.1,261.3,70.8z"/>
+<path id="left_glasses" class="st6" d="M98.3,91.9c0,0,7-35.2,58.8-30s16.6,62.6-10.9,60.1S104.7,123.2,98.3,91.9z"/>
+</svg>
